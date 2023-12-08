@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=Shark&text="Welcome to my github")
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bje5774)](https://solved.ac/bje5774/)
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=345678&height=150&section=header&text=welcome&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bje5774)](https://solved.ac/bje5774/)
+</div>
