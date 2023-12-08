@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **mons-trev/mons-trev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=345678&height=150&section=header&text=welcome&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=E799C5&height=150&section=header&text=Welcome!&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bje5774)](https://solved.ac/bje5774/)
 </div>
