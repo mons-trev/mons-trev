@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bje5774)](https://solved.ac/bje5774/)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bje5774)](https://solved.ac/bje5774/) </br>
+  ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mons-trev&langs_count=10&layout=compact&theme=dark)](https://github.com/mons-trev/mons-trev)﻿
+
 </div>
