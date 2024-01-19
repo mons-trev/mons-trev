@@ -58,7 +58,7 @@
    <br>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mons-trev&layout=compact&hide=html)](https://github.com/mons-trev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mons-trev&layout=compact&hide=html,Batchfile,Makefile)](https://github.com/mons-trev/github-readme-stats)
 
 <!--
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mons-trev&show_icons=true&theme=radical)
