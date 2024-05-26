@@ -60,13 +60,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mons-trev&layout=compact&hide=html,Batchfile,Makefile,css,Ruby,Shell)](https://github.com/mons-trev/github-readme-stats)
 
-### Activites
-|Year|categories|activites|
+## Activites
+|Year|Categories|Activites|
 |------|---|---|
 |2021|Club|GDSC Ewha|
 |2022|Award|GDSC Ewha Personal Project award|
-|2022|Lab Intern|OS Lab|
-|2022|Club|EFUB(steady)|
+|2022|Volunteer|Ewha volunteering|
+|2022|Lab Intern|Ewha univ OS Lab|
+|2022|Club|EFUB(steady web project)|
 |2022|Scholarship|National Science & Technology Scholarship|
 |2024|Club|Kanghwa sisters|
 |2024|Club|Euron|
