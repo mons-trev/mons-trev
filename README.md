@@ -60,6 +60,18 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mons-trev&layout=compact&hide=html,Batchfile,Makefile,css,Ruby,Shell)](https://github.com/mons-trev/github-readme-stats)
 
+### Activites
+|Year|categories|activites|
+|------|---|---|
+|2021|Club|GDSC Ewha|
+|2022|Award|GDSC Ewha Personal Project award|
+|2022|Lab Intern|OS Lab|
+|2022|Club|EFUB(steady)|
+|2022|Scholarship|National Science & Technology Scholarship|
+|2024|Club|Kanghwa sisters|
+|2024|Club|Euron|
+|2024|Award|Epper(Excellence award)|
+
 <!--
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mons-trev&show_icons=true&theme=radical)
 -->
