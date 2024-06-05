@@ -10,8 +10,11 @@
     <p><strong>Main language</strong></p>
     <div>
         <img src="https://img.shields.io/badge/cpp-7F52FF?style=flat-square&logo=cpp&logoColor=white"> 
-        <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=Java&logoColor=white"> 
         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
+    </div>
+    <p><strong>other</strong></p>
+    <div>
+          <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=Java&logoColor=white"> 
     </div>
    <!-- AI -->
     <p><strong>AI</strong></p>
