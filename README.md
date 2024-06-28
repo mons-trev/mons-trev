@@ -75,7 +75,7 @@
 |2024|Club|Kanghwa sisters|
 |2024|Club|Euron|
 |2024|Award|Epper(Excellence award)|
-
+|2024|[XAIC] Paper|Analyze Diffusion model mechanism by using XAI techniques|
 <!--
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mons-trev&show_icons=true&theme=radical)
 -->
