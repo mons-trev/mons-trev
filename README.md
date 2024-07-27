@@ -76,6 +76,7 @@
 |2024|Club|Euron|
 |2024|Award|Epper(Excellence award)|
 |2024|[KCC 2024] Paper|Analyze Diffusion model mechanism by using XAI|
+|2024|Teaching|Ewha womans Univ Algorithm tutor(알튜비튜)|
 <!--
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mons-trev&show_icons=true&theme=radical)
 -->
