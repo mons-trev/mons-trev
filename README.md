@@ -1,9 +1,11 @@
+<div align=center>
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=&animation=twinkling&height=80)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+mons-trev's+GitHub!👋)](https://git.io/typing-svg)
 
 ###  🌱 I’m currently learning... Generative AI & Deep Learning & Algorithm
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bje5774)](https://solved.ac/bje5774/) </br>
-    
+
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
   <!-- language -->
@@ -81,3 +83,11 @@
 <!--
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mons-trev&show_icons=true&theme=radical)
 -->
+
+## Contact
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/jieun-byeon-800544320/))](https://www.linkedin.com/in/jieun-byeon-800544320/) <br>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bje5774@gmail.com)](mailto:bje5774@gmail.com) <br>
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://humanintel.tistory.com/)](https://humanintel.tistory.com/)
+
+
+</div>
