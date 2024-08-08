@@ -77,8 +77,9 @@
 |2024|Award|[Algorithm]Epper(Excellence award)|
 |2024|[KCC 2024] Paper|[DL & XAI]Analyze Diffusion model mechanism by using XAI|
 |2024|Teaching|[Algorithm]Ewha womans univ Algorithm tutor(알튜비튜)|
-|2024|Teaching|[Algorithm]C programming & Lab TA|
 |2024|Award|[RL]Kwanghwa sisters MineSweeper with DQN|
+|2024|Lab|DSAILAB|
+
 <!--
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mons-trev&show_icons=true&theme=radical)
 -->
