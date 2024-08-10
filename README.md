@@ -78,7 +78,7 @@
 |2024|[KCC 2024] Paper|[DL & XAI]Analyze Diffusion model mechanism by using XAI|
 |2024|Teaching|[Algorithm]Ewha womans univ Algorithm tutor(알튜비튜)|
 |2024|Award|[RL]Kwanghwa sisters MineSweeper with DQN|
-|2024|Lab Intern|[time series anomaly detection] DSAIL|
+|2024|Lab Intern|[time series anomaly detection] SNU @ DSAIL|
 
 <!--
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mons-trev&show_icons=true&theme=radical)
