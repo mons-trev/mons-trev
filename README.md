@@ -67,15 +67,15 @@
 |Year|Categories|Activites|
 |------|---|---|
 |2021|Club|GDSC Ewha|
-|2022|Award|GDSC Ewha Personal Project award|
+|2022|Award|[WEB]GDSC Ewha Personal Project award|
 |2022|Volunteer|Ewha volunteering|
 |2022|Lab Intern|Ewha univ OS Lab|
-|2022|Club|EFUB(steady web project)|
+|2022|Club|[WEB]EFUB(steady web project)|
 |2022|Scholarship|National Science & Technology Scholarship|
 |2024|Club|[RL]Kanghwa sisters|
 |2024|Club|[DL]Euron|
 |2024|Award|[Algorithm]Epper(Excellence award)|
-|2024|[KCC 2024] Paper|[DL & XAI]Analyze Diffusion model mechanism by using XAI|
+|2024|[KCC XAIC 2024] Paper|[DL & XAI]Analyze Diffusion model mechanism by using XAI|
 |2024|Teaching|[Algorithm]Ewha womans univ Algorithm tutor(알튜비튜)|
 |2024|Award|[RL]Kwanghwa sisters MineSweeper with DQN|
 |2024|Lab Intern|[time series anomaly detection] Seoul National univ DSAIL|
