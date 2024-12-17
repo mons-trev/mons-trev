@@ -78,7 +78,7 @@
 |2024|Award|[RL]Kwanghwa sisters MineSweeper with DQN|
 |2024|Lab Intern|[Time Series Analysis]Seoul National univ DSAIL|
 |2024|Award|[PS]Programming Competition (Ewha AI)|
-
+|2024|Award|[Research]Graduation project at poster session|
 <!--
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mons-trev&show_icons=true&theme=radical)
 -->
