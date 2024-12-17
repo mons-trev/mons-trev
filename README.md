@@ -73,7 +73,6 @@
 |2024|Club|[RL]Kanghwa sisters|
 |2024|Club|[DL]Euron|
 |2024|Award|[PS]Epper (Ewha CSE & CS)|
-|2024|[KCC 2024 XAIC] Paper|[DL & XAI]Analyze Diffusion model mechanism by using XAI|
 |2024|Teaching|[Algorithm]Ewha womans univ Algorithm tutor(알튜비튜)|
 |2024|Award|[RL]Kwanghwa sisters MineSweeper with DQN|
 |2024|Lab Intern|[Time Series Analysis]Seoul National univ DSAIL|
