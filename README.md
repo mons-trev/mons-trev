@@ -67,7 +67,7 @@
 |Year|Categories|Activites|
 |------|---|---|
 |2021|Club|GDSC Ewha|
-|2022|Award|[FE&BE]GDSC Ewha Personal Project award|
+|2022|Award|[FE&BE]GDSC Ewha Personal Project|
 |2022|Club|[BE]EFUB(steady web project)|
 |2022|Scholarship|National Science & Technology Scholarship|
 |2024|Club|[RL]Kanghwa sisters|
