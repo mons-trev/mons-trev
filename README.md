@@ -73,7 +73,7 @@
 |2024|Club|[RL]Kanghwa sisters|
 |2024|Club|[DL]Euron|
 |2024|Award|[PS]Epper (Ewha CSE & CS)|
-|2024|Teaching|[Algorithm]Ewha womans univ Algorithm tutor(알튜비튜)|
+|2024|Teaching|[Algorithm]Ewha womans univ Algorithm tutor|
 |2024|Award|[RL]Kanghwa sisters MineSweeper with DQN|
 |2024|Award|[PS]PS Competition (Ewha AI)|
 |2024|Award|[Research]Poster session of Graduation project|
