@@ -1,3 +1,4 @@
+<!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=&animation=twinkling&height=80)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+mons-trev's+GitHub!👋)](https://git.io/typing-svg)
 
@@ -61,6 +62,10 @@
    <br>
 </div>
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mons-trev&show_icons=true&theme=radical)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmons-trev&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+-->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mons-trev&layout=compact&hide=html,Batchfile,Makefile,css,Ruby,Shell)](https://github.com/mons-trev/github-readme-stats)
 
 ## Activites
@@ -78,10 +83,6 @@
 |2024|Award|[PS]PS Competition (Ewha AI)|
 |2024|Award|[Research]Poster session of Graduation project|
 
-<!--
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mons-trev&show_icons=true&theme=radical)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmons-trev&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
--->
 
 ## Contact
 
